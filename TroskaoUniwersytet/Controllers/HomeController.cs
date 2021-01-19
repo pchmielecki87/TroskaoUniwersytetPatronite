@@ -23,6 +23,11 @@ namespace TroskaoUniwersytet.Controllers
             return View();
         }
 
+        public IActionResult English()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
